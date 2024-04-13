@@ -13,4 +13,4 @@ Soy una persona que se considera extrovertida, disciplinada, ordenada y creativa
 
 <h2 align="center">🌻 ¡Mis Redes! 🌻 </h2>
 
-[![Instagram](img/Instagram.png)](https://www.instagram.com/sebastian.p29/) [![TikTok](img/TikTok.png)](https://www.tiktok.com/@pady_29)
+[![Instagram](img/Instagram.png)](https://www.instagram.com/sebastian.p29/) [![TikTok](img/TikTok.png)](https://www.tiktok.com/@pady_29) [![YouTube](img/YouTube.png)](https://www.youtube.com/@sebastianpadilla7997)
