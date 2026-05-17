@@ -1,9 +1,5 @@
-<h1 align="center"> ☀ Bienvenid@ </h1>
-
-![Banner](img/banner.png)
-
+<h1 align="center"> ☀ Bienvenid@ ☀</h1>
 ---
-
-<h2 align="center">🔥 Especialista en Ciberseguridad </h2>
+<h2 align="center">🔥 Especialista en Ciberseguridad 🔥</h2>
 
 
